@@ -1,8 +1,0 @@
-{
-  "headers": {
-  "/*": {
-    "X-Author": "zelescon",
-    "Access-Control-Allow-Origin": "*"
-    }
-  }
-}
